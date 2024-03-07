@@ -36,7 +36,6 @@ p{
     margin-top: 50px;
     width: 1200px;
     height: 100px;
-    background-color: red;
 }
 
 img{
@@ -47,7 +46,8 @@ img{
 }
 
 .container2{
-    width: calc(100% / 3);
+    margin: 20px;
+    width: calc(90% / 3);
     height: 100px;
     background-color: black;
     float: left;
